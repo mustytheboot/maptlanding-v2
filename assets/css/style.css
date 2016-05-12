@@ -194,7 +194,7 @@ body {
 
 .heading-font,
 .team-member .position {
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .uppercase {
@@ -237,7 +237,7 @@ h5,
 h6,
 .heading {
 	display: block;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	line-height: 1.1;
 }
 
@@ -286,7 +286,7 @@ h6 {
 }
 
 .sub-title.big {
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 23px;
 	line-height: 30px;
 }
@@ -301,7 +301,7 @@ p {
 }
 
 strong {
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 }
 
@@ -676,7 +676,7 @@ blockquote {
 	margin: 0 1px;
 	display: block;
 	padding: 0 100px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 17px;
 	font-weight: 300;
 	text-align: center;
@@ -840,7 +840,7 @@ blockquote:after {
 	display: block;
 	width: 65px;
 	height: 32px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 13px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -1050,7 +1050,7 @@ input[type=submit]:not(.default) {
 	min-width: 144px;
 	max-width: 100%;
 	padding: 15px 25px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -1329,7 +1329,7 @@ input[type=submit]:not(.default).btn-no-border.pressed {
 	background-clip: padding-box;
 	min-width: 160px;
 	padding: 14px 24px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
 	text-align: center;
@@ -1488,7 +1488,7 @@ input[type=submit]:not(.default).btn-no-border.pressed {
 	transition: color 0.25s ease, background 0.25s ease;
 	margin-right: 0;
 	padding: 20px 40px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 13px;
 	text-transform: uppercase;
 	font-weight: 400;
@@ -2510,7 +2510,7 @@ input[type=checkbox]:focus {
 
 .package-column .package-title {
 	padding: 20px 0 18px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 25px;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -2524,7 +2524,7 @@ input[type=checkbox]:focus {
 	-o-transition: background 0.3s ease-in-out;
 	transition: background 0.3s ease-in-out;
 	padding: 15px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 300;
 	background-color: rgba(171, 172, 179, 0.1);
 }
@@ -3117,13 +3117,13 @@ input[type=checkbox]:focus {
 .product-list .product-price-wrapper {
 	position: absolute;
 	display: inline-block;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
 }
 
 .product-list .product-price {
 	display: inline-block;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
 }
 
@@ -4536,7 +4536,7 @@ td.cart-list-item-price {
 	transition: border 0.2s ease, color 0.2s ease;
 	display: inline-block;
 	padding: 15px 10px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	text-transform: uppercase;
 	color: rgba(240, 240, 240, 0.8);
@@ -5696,7 +5696,7 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 
 .features-list-section .highlight {
 	margin: 12px 0 13px;
-	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 1.7;
