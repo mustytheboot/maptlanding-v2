@@ -421,7 +421,7 @@ input[type=password],
 .fixed-menu .navigation-header.white-dropdown .navigation-bar.navigation-bar-left > li.active:not(.featured) > a,
 .navigation-header.white-header .btn.btn-outline,
 .form-register.form-register-small .form-control {
-	border-color: #1ac6ff;
+	border-color: orange;
 }
 
 .base-clr-bg,
@@ -508,7 +508,7 @@ input[type=submit]:not(.default).btn-outline-color.pressed,
 .color-landing-page .newsletter-section,
 .color-landing-page .feedback-section,
 .color-landing-page .footer {
-	background-color: #1ac6ff;
+	background-color: orange;
 }
 
 .base-clr-txt,
@@ -613,7 +613,7 @@ input[type=submit]:not(.default).btn-no-border.pressed,
 .package-column.featured > .package-detail .btn.btn-outline-color:hover,
 .package-column:hover > .package-detail .btn.btn-outline-color:focus,
 .package-column.featured > .package-detail .btn.btn-outline-color:focus {
-	color: #1ac6ff;
+	color: orange;
 }
 
 ::selection {
@@ -7797,4 +7797,3 @@ blockquote {
 }
 
 }
-
