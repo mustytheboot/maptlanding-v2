@@ -270,6 +270,15 @@ h6 {
 	font-family: "PT Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 16px;
 	line-height: 25px;
+	color:white;
+}
+
+.about-section p.editContent {
+	color:white;
+}
+
+.about-section span.heading {
+	color:orange;
 }
 
 .sub-title.alt {
@@ -4416,7 +4425,9 @@ td.cart-list-item-price {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	background: #6f186c url("../img/background/low_poly_background.jpg") top center no-repeat;
+	/*background: #6f186c url("../img/background/low_poly_background.jpg") top center no-repeat;*/
+	background: black;
+	border-bottom: solid 3px orange;
 }
 
 .navigation-header .navigation-brand {
@@ -4992,7 +5003,7 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 	background-size: cover;
 	padding: 0 0 30px;
 	font-weight: 300;
-	background-image: url('../img//background/low_poly_background.jpg');
+	background-image: url('../img/background/map-bgdk.png');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-attachment: fixed;
@@ -5639,6 +5650,14 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 
 .about-section {
 	padding: 60px 0 0;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	position: relative;
+	background-image: url("../img/background/map-bgdk.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
 }
 
 .about-section .howitworks {
@@ -5717,7 +5736,7 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	background-image: url('../img/background/low_poly_background.jpg');
+	background-image: url('../img/background/map-bgdk.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -7719,6 +7738,10 @@ blockquote {
 
 .about-section {
 	padding: 40px 0 0;
+}
+
+.about-section {
+
 }
 
 .guarantee-section p {
