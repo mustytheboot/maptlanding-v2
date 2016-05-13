@@ -256,7 +256,7 @@ h6 {
 }
 
 .heading {
-	margin: 0 0 10px;
+	margin: 15px 0 10px;
 	font-weight: 400;
 }
 
@@ -2531,9 +2531,9 @@ input[type=checkbox]:focus {
 
 .package-column .package-price .price {
 	position: relative;
-	font-size: 115px;
+	font-size: 85px;
 	font-weight: 300;
-	line-height: 125px;
+	line-height: 115px;
 }
 
 .package-column .package-price .currency {
@@ -5003,10 +5003,12 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 	background-size: cover;
 	padding: 0 0 30px;
 	font-weight: 300;
-	background-image: url('../img/background/map-bgdk.png');
+	/*background-image: url('../img/background/map-bgdk.png');
 	background-repeat: no-repeat;
 	background-position: top center;
-	background-attachment: fixed;
+	background-attachment: fixed;*/
+	background: #111;
+	border-top: solid 3px orange;
 }
 
 .footer p {
