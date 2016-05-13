@@ -2568,6 +2568,16 @@ input[type=checkbox]:focus {
 	border-bottom: 1px solid #dadada;
 }
 
+.package-column .package-detail ul li.null {
+	height: 56px;
+	padding: 15px 0;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 25px;
+	color: #4c4c4c;
+	border-bottom: 1px solid transparent;
+}
+
 .package-column .package-detail ul li:last-child {
 	border-bottom: none;
 }
@@ -2614,6 +2624,12 @@ input[type=checkbox]:focus {
 .package-column:hover > .package-detail ul li,
 .package-column.featured > .package-detail ul li {
 	border-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Hiding empty li's*/
+.package-column:hover > .package-detail ul li.null,
+.package-column.featured > .package-detail ul li.null {
+	border-color:transparent;
 }
 
 .package-column:hover > .package-price .price,
