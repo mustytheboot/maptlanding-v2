@@ -5461,7 +5461,7 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 	-moz-background-size: cover;
 	background-size: cover;
 	position: relative;
-	background-image: url("../img/background/low_poly_background.jpg");
+	background-image: url("../img/background/map-bgdk.png");
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-attachment: fixed;
@@ -5605,6 +5605,7 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 	bottom: 0;
 	left: 0;
 	right: 0;
+	border-bottom: 3px solid orange;
 }
 
 .video-wrapper {
