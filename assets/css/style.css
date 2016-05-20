@@ -4442,7 +4442,7 @@ td.cart-list-item-price {
 	-moz-background-size: cover;
 	background-size: cover;
 	/*background: #6f186c url("../img/background/low_poly_background.jpg") top center no-repeat;*/
-	background: black;
+	background: #060028;
 	border-bottom: solid 3px orange;
 }
 
@@ -4462,7 +4462,7 @@ td.cart-list-item-price {
 	background-size: contain;
 	display: block;
 	height: 30px;
-	background-image: url("../img/logo.png");
+	background-image: url("../img/packt/mapt.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	line-height: 30px;
