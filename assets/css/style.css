@@ -4471,7 +4471,7 @@ td.cart-list-item-price {
 
 .navigation-header .navigation-brand .brand-logo .logo.logo-alt {
 	display: none;
-	background-image: url("../img/packt/mapt.png");
+	background-image: url("../img/packt/mapt-dk.png");
 }
 
 .navigation-header .navigation-brand .brand-logo h4 {
@@ -5414,7 +5414,8 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 }
 
 .form-section4 {
-	background-image: url("../img/background/form-bg4.jpg");
+	/*background-image: url("../img/background/form-bg4.jpg");*/
+		background-image: url("../img/packt/mapt-dk.png");
 }
 
 .lead-generation1 {
@@ -5466,6 +5467,7 @@ body.always-mobile .fixed-menu .navigation-header.white-dropdown .navigation-bar
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-attachment: fixed;
+	background-color: #060028;
 }
 
 .static-header .heading-block {
