@@ -677,11 +677,12 @@ blockquote {
 	display: block;
 	padding: 0 100px;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 17px;
+	font-size: 35px;
 	font-weight: 300;
 	text-align: center;
-	line-height: 1.6;
+	line-height: 1.2;
 	border: none;
+	font-style: italic;;
 }
 
 blockquote:before,
@@ -2538,8 +2539,8 @@ input[type=checkbox]:focus {
 
 .package-column .package-price .currency {
 	position: relative;
-	top: -40px;
-	font-size: 47px;
+	top: -30px;
+	font-size: 40px;
 	font-weight: 500;
 	line-height: 1;
 }
